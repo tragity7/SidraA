@@ -1,4 +1,8 @@
 # SidraA
-Hello :D 
+Hello :D
+
 This is Sidra Ali. I'm a dual major (Electrical Engineering & Computer Engineering).
-I don't really have any project based classes this semester so the two repositories I'll put here will be personal. 
+
+I am taking CEG3310: Computer Organization this semester. I haven't had any of its labs yet but when I do, I'll describe a project here.
+
+Another project I'm going to be updating about here is more personal. 
