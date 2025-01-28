@@ -29,7 +29,7 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: Windows Powershell
+My Command Line Shell is: Windows PowerShell
 
 ### Navigating My OS on the Command Line
 
@@ -52,7 +52,9 @@ Put your words here
 ## Citations
 
 Site: Learn Microsoft
+
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-7.4
+
 Assistance in: I tried the commands on PowerShell and then used this website to verify that my PowerShell was working like it's supposed to (the actions matched the descriptions of the commands on the website)
 
 
