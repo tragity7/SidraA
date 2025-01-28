@@ -11,7 +11,9 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         |    Windows PowerShell Help describes Windows PowerShell cmdlets,
+    functions, scripts, and modules, and explains concepts, including
+    the elements of the Windows PowerShell language.     |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
