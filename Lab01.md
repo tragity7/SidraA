@@ -11,18 +11,18 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |    Windows PowerShell Help describes Windows PowerShell cmdlets,
+| help    | man         |    Describes Windows PowerShell cmdlets,
     functions, scripts, and modules, and explains concepts, including
-    the elements of the Windows PowerShell language.     |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+    the elements of the Windows PowerShell language     |
+| Get-Location | pwd    |  Displays the directory you are currently in      |
+| Get-ChildItem | ls    |    Displays a list of items (all folders, sub-folders and files) in a specific location    |
+| mkdir   | mkdir       |   Creates a directory or subdirectory at a specified path     |
+| Set-Location | cd     |   Changes the location of the current directory to a specified location     |
+| New-Item | touch      |  Creates a new item and sets its value      |
+| Move-Item | mv        |  Moves an item (including all its child items) from one location to another      |
+| Copy-Item | cp        |  Copies an item from one location to another location in the same namespace  (it does not delete/cut any copied item)  |
+| Remove-Item | rm      |  Deletes one or more items      |
+| notepad.exe | vim     |  Opens the Notepad application      |
 
 ## Part 3 - Command Line Navigation
 
