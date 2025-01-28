@@ -33,10 +33,10 @@ My Command Line Shell is: Windows PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Create a directory named `DirA`: mkdir
+1. Create a directory named `DirA`: 
 New-Item -ItemType Directory -Name DirA
 
-2. Create a directory named `Dir B`: mkdir
+2. Create a directory named `Dir B`: 
 New-Item -ItemType Directory -Name DirB
 
 3. Go into `DirA`:
@@ -70,7 +70,7 @@ Get-ChildItem -Path .\DirA
 Copy-Item -Path .\DirA\test.txt -Destination .\DirB\fodder.txt
 
 12. Delete / remove both `fodder.txt` AND `Dir B`:
-Remove-Item -Path .\DirB\fodder.txt
+Remove-Item -Path .\DirB
 
 ## Citations
 
