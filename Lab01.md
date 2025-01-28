@@ -42,7 +42,7 @@ My Command Line Shell is: Windows PowerShell
 7. Move the file named `test.txt` into `DirA`:
 8. Contents of `test.txt`:
 ```
-Put your words here
+slightly confused as to how you're going to verify I actually did this
 ```
 9. Make a copy of `test.txt` named `copy.txt` in `DirA`:
 10. View the contents of `DirA`: 
