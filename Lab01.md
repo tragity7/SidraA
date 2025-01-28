@@ -11,9 +11,7 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |    Describes Windows PowerShell cmdlets,
-    functions, scripts, and modules, and explains concepts, including
-    the elements of the Windows PowerShell language     |
+| help    | man         |    Describes Windows PowerShell cmdlets, functions, scripts, and modules, and explains concepts, including the elements of the Windows PowerShell language     |
 | Get-Location | pwd    |  Displays the directory you are currently in      |
 | Get-ChildItem | ls    |    Displays a list of items (all folders, sub-folders and files) in a specific location    |
 | mkdir   | mkdir       |   Creates a directory or subdirectory at a specified path     |
