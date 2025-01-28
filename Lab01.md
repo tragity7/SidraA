@@ -55,11 +55,8 @@ New-Item -ItemType File -Name test.txt
 Move-Item -Path test.txt -Destination .\DirA
 
 8. Contents of `test.txt`:
-Set-Content -Path .\DirA\test.txt -Value "rdjthjjj"
+Set-Content -Path .\DirA\test.txt -Value "hello, this is Sidra. hopefully this is working."
 
-```
-rdjthjjj
-```
 9. Make a copy of `test.txt` named `copy.txt` in `DirA`:
 Copy-Item -Path .\DirA\test.txt -Destination .\DirA\copy.txt
 
