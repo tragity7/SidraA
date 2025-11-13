@@ -1,6 +1,7 @@
-# SidraA
-Hello :D
+# Hello :D
 
-This is Sidra Ali. I'm a dual major (Electrical Engineering & Computer Engineering).
+
+This is Sidra Ali.
+Dual major (Electrical Engineering & Computer Engineering).
 
  
